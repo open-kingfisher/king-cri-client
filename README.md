@@ -9,3 +9,6 @@ Kubernetes CRI Client
 - 从Kubelet中拷贝出来的CRI Client，此Client实现了 CRI Image和Runtime的grpc client
 - 可以在装有kubelet的节点上运行，用于管理容器和镜像
 - 此包依赖于k8s.io/kubernetes v1.13.1，更高版本的k8s.io/kubernetes已经不在支持go module安装，所有方法需要重新实现
+
+## 联系我们
+- [交流群](https://github.com/open-kingfisher/community/blob/master/contact_us/README.md)
